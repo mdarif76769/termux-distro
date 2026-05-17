@@ -27,29 +27,29 @@ Install Kali NetHunter in Termux.
 
 <div align="center" ;background-color:black;border:3px solid black;border-radius:6px;margin:5px 0;padding:2px 5px">
     <a href="https://mdarif76769.github.io/termux-nethunter">
-        <img src="https://raw.githubusercontent.com/jorexdeveloper/termux-nethunter/main/logo.webp"
+        <img src="https://raw.githubusercontent.com/mdarif76769/termux-nethunter/main/logo.webp"
             alt="Image could not be loaded!" style="color:red;background-color:black;font-weight:bold" />
     </a>
 </div>
 
-<h2 align="center"><a href="https://jorexdeveloper.github.io/termux-ubuntu">TERMUX UBUNTU</a></h2>
+<h2 align="center"><a href="https://mdarif76769.github.io/termux-ubuntu">TERMUX UBUNTU</a></h2>
 
 Install Ubuntu in Termux.
 
 <div align="center" ;background-color:black;border:3px solid black;border-radius:6px;margin:5px 0;padding:2px 5px">
-    <a href="https://jorexdeveloper.github.io/termux-ubuntu">
-        <img src="https://raw.githubusercontent.com/jorexdeveloper/termux-ubuntu/main/logo.jpg"
+    <a href="https://mdarif76769.github.io/termux-ubuntu">
+        <img src="https://raw.githubusercontent.com/mdarif76769/termux-ubuntu/main/logo.jpg"
             alt="Image could not be loaded." style="color:red;background-color:black;font-weight:bold" />
     </a>
 </div>
 
-<h2 align="center"><a href="https://jorexdeveloper.github.io/termux-arch">TERMUX ARCH</a></h2>
+<h2 align="center"><a href="https://mdarif76769.github.io/termux-arch">TERMUX ARCH</a></h2>
 
 Install Arch Linux in Termux.
 
 <div align="center" ;background-color:black;border:3px solid black;border-radius:6px;margin:5px 0;padding:2px 5px">
-    <a href="https://jorexdeveloper.github.io/termux-arch">
-        <img src="https://raw.githubusercontent.com/jorexdeveloper/termux-arch/main/logo.png"
+    <a href="https://mdarif76769.github.io/termux-arch">
+        <img src="https://raw.githubusercontent.com/mdarif76769/termux-arch/main/logo.png"
             alt="Image could not be loaded." style="color:red;background-color:black;font-weight:bold" />
     </a>
 </div>
